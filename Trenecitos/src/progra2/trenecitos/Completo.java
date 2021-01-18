@@ -16,7 +16,9 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
 public class Completo {
-	
+	/*
+	 * Comentario de prueba para probar gitHub
+	 */
 	JFrame frame;
 	JPanel panel;
 	
