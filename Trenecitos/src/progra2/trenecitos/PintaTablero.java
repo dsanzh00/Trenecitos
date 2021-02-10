@@ -37,8 +37,8 @@ public class PintaTablero extends JFrame implements Runnable {
 	
 	
 	FormaTren[][] tablero;
-	
-	
+	boolean results[] = new boolean[]{true,false,true}; 
+
 	ArrayList<String> total = new ArrayList<String>();
 	ArrayList<ArrayList<String>> totalDeshacer = new ArrayList<ArrayList<String>>();
 	ArrayList<ArrayList<String>> totalRehacer = new ArrayList<ArrayList<String>>();
